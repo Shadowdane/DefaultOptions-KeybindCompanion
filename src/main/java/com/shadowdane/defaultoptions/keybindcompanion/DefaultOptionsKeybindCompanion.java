@@ -1,4 +1,4 @@
-package com.shadowdane.transformedstorage.keybindcompanion;
+package com.shadowdane.defaultoptions.keybindcompanion;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientLifecycleEvents;
@@ -10,8 +10,8 @@ import org.slf4j.LoggerFactory;
 import java.util.HashMap;
 import java.util.Map;
 
-public final class TransformedStorageKeybindCompanion implements ClientModInitializer {
-    public static final String MOD_ID = "transformed_storage_keybind_companion";
+public final class DefaultOptionsKeybindCompanion implements ClientModInitializer {
+    public static final String MOD_ID = "defaultoptions_keybind_companion";
     private static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
     @Override

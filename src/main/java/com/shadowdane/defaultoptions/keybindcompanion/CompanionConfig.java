@@ -1,4 +1,4 @@
-package com.shadowdane.transformedstorage.keybindcompanion;
+package com.shadowdane.defaultoptions.keybindcompanion;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -15,7 +15,7 @@ final class CompanionConfig {
     private static final Gson GSON = new GsonBuilder().setPrettyPrinting().create();
     private static final Path CONFIG_PATH = FabricLoader.getInstance()
             .getConfigDir()
-            .resolve("transformed-storage-keybind-companion.json");
+            .resolve("defaultoptions-keybind-companion.json");
 
     boolean forceApplyDefaultKeyBindings = false;
 

@@ -5,4 +5,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'transformed-storage-defaultoptions-keybind-companion'
+rootProject.name = 'defaultoptions-keybind-companion'

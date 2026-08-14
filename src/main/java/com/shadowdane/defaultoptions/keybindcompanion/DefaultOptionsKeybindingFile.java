@@ -1,4 +1,4 @@
-package com.shadowdane.transformedstorage.keybindcompanion;
+package com.shadowdane.defaultoptions.keybindcompanion;
 
 import com.mojang.blaze3d.platform.InputConstants;
 import net.fabricmc.loader.api.FabricLoader;
