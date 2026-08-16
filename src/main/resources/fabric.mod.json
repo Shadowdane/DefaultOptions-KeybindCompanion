@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "id": "transformed_storage_keybind_companion",
+  "id": "defaultoptions_keybind_companion",
   "version": "${version}",
-  "name": "Transformed Storage - DefaultOptions Keybind Companion",
-  "description": "One-shot client-side helper that can forcibly reapply Default Options keybindings after all Fabric client key mappings have registered.",
+  "name": "Default Options Keybind Companion",
+  "description": "A client-side helper mod that can forcibly reapply Default Options keybindings after all Fabric client key mappings have registered.",
   "authors": [
     "Shadowdane"
   ],
   "contact": {},
-  "license": "ARR",
+  "license": "MIT",
   "environment": "client",
   "entrypoints": {
     "client": [
-      "com.shadowdane.transformedstorage.keybindcompanion.TransformedStorageKeybindCompanion"
+      "com.shadowdane.defaultoptions.keybindcompanion.DefaultOptionsKeybindCompanion"
     ]
   },
   "depends": {
