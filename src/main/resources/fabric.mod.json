@@ -3,7 +3,7 @@
   "id": "defaultoptions_keybind_companion",
   "version": "${version}",
   "name": "Default Options Keybind Companion",
-  "description": "One-shot client-side helper that can forcibly reapply Default Options keybindings after all Fabric client key mappings have registered.",
+  "description": "A client-side helper mod that can forcibly reapply Default Options keybindings after all Fabric client key mappings have registered.",
   "authors": [
     "Shadowdane"
   ],
